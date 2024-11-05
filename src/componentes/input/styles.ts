@@ -12,6 +12,7 @@ export const styles = StyleSheet.create({
       alignItems: 'center',
       paddingLeft: 16,
       overflow: 'hidden',
+      gap:4
    },
    control: {
       flex:1,
